@@ -1,0 +1,107 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "External Entity"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"60\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 60,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Data Store"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Process"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;html=1;fontColor=#FF3333;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Data Flow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;startArrow=classic;html=1;fontColor=#FF3333;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Bidirectional Data Flow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Trust Boundary\" style=\"html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"290\" height=\"140\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 290,
+    "h": 140,
+    "aspect": "fixed",
+    "title": "Trust Boundary"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=requiredInterface;html=1;verticalLabelPosition=bottom;dashed=1;strokeColor=#FF3333;strokeWidth=2;fillColor=none;fontColor=#FF3333;align=left;rotation=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"330\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 20,
+    "h": 330,
+    "aspect": "fixed",
+    "title": "Trust Boundary"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"Label\" placeholders=\"1\" name=\"Variable\" id=\"2\"&gt;&lt;mxCell style=\"text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;A01&amp;lt;/b&amp;gt;\" placeholders=\"1\" name=\"Variable\" id=\"2\"&gt;&lt;mxCell style=\"text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "Asset Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;C01&amp;lt;/b&amp;gt;\" placeholders=\"1\" name=\"Variable\" id=\"2\"&gt;&lt;mxCell style=\"text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "Security Control Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;TA01&amp;lt;/b&amp;gt;\" placeholders=\"1\" name=\"Variable\" id=\"2\"&gt;&lt;mxCell style=\"text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "Threat Actor Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;table border=&amp;quot;1&amp;quot; width=&amp;quot;100%&amp;quot; style=&amp;quot;width: 100% ; height: 100% ; border-collapse: collapse ; border: 1px solid #d6b656&amp;quot;&amp;gt;&amp;lt;tbody&amp;gt;&amp;lt;tr style=&amp;quot;background-color: #fff2cc ; color: #000000 ; border: 1px solid #d6b656&amp;quot;&amp;gt;&amp;lt;th align=&amp;quot;center&amp;quot; colspan=&amp;quot;2&amp;quot;&amp;gt;Assets&amp;lt;/th&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr style=&amp;quot;background-color: #fff2cc ; color: #000000 ; border: 1px solid #d6b656&amp;quot;&amp;gt;&amp;lt;th align=&amp;quot;left&amp;quot; style=&amp;quot;border: 1px solid #d6b656&amp;quot;&amp;gt;ID&amp;lt;/th&amp;gt;&amp;lt;th align=&amp;quot;left&amp;quot; style=&amp;quot;border: 1px solid #d6b656&amp;quot;&amp;gt;Description&amp;lt;/th&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style=&amp;quot;border: 1px solid #d6b656&amp;quot;&amp;gt;A01&amp;lt;/td&amp;gt;&amp;lt;td style=&amp;quot;border: 1px solid #d6b656&amp;quot;&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/tbody&amp;gt;&amp;lt;/table&amp;gt;\" style=\"text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;shadow=1;labelBackgroundColor=#ffffff;fontColor=#000000;align=left;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"390\" height=\"110\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 390,
+    "h": 110,
+    "aspect": "fixed",
+    "title": "Asset Label"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;table border=&amp;quot;1&amp;quot; width=&amp;quot;100%&amp;quot; style=&amp;quot;width: 100% ; height: 100% ; border-collapse: collapse ; border: 1px solid #b85450&amp;quot;&amp;gt;&amp;lt;tbody&amp;gt;&amp;lt;tr style=&amp;quot;background-color: #f8cecc ; color: #000000 ; border: 1px solid #b85450&amp;quot;&amp;gt;&amp;lt;th align=&amp;quot;center&amp;quot; colspan=&amp;quot;2&amp;quot;&amp;gt;Threat Actors&amp;lt;/th&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr style=&amp;quot;background-color: #f8cecc ; color: #000000 ; border: 1px solid #b85450&amp;quot;&amp;gt;&amp;lt;th align=&amp;quot;left&amp;quot; style=&amp;quot;border: 1px solid #b85450&amp;quot;&amp;gt;ID&amp;lt;/th&amp;gt;&amp;lt;th align=&amp;quot;left&amp;quot; style=&amp;quot;border: 1px solid #b85450&amp;quot;&amp;gt;Description&amp;lt;/th&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style=&amp;quot;border: 1px solid #b85450&amp;quot;&amp;gt;TA01&amp;lt;/td&amp;gt;&amp;lt;td style=&amp;quot;border: 1px solid #b85450&amp;quot;&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/tbody&amp;gt;&amp;lt;/table&amp;gt;\" style=\"text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;shadow=1;labelBackgroundColor=#ffffff;fontColor=#000000;align=left;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"390\" height=\"109\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 390,
+    "h": 109,
+    "aspect": "fixed",
+    "title": "Threat Actor Table"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;table border=&amp;quot;1&amp;quot; width=&amp;quot;100%&amp;quot; style=&amp;quot;width: 100% ; height: 100% ; border-collapse: collapse ; border: 1px solid #82b366&amp;quot;&amp;gt;&amp;lt;tbody&amp;gt;&amp;lt;tr style=&amp;quot;background-color: #d5e8d4 ; color: #000000 ; border: 1px solid #82b366&amp;quot;&amp;gt;&amp;lt;th align=&amp;quot;center&amp;quot; colspan=&amp;quot;2&amp;quot;&amp;gt;Security Controls&amp;lt;/th&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr style=&amp;quot;background-color: #d5e8d4 ; color: #000000 ; border: 1px solid #82b366&amp;quot;&amp;gt;&amp;lt;th align=&amp;quot;left&amp;quot; style=&amp;quot;border: 1px solid #82b366&amp;quot;&amp;gt;ID&amp;lt;/th&amp;gt;&amp;lt;th align=&amp;quot;left&amp;quot; style=&amp;quot;border: 1px solid #82b366&amp;quot;&amp;gt;Description&amp;lt;/th&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style=&amp;quot;border: 1px solid #82b366&amp;quot;&amp;gt;C01&amp;lt;/td&amp;gt;&amp;lt;td style=&amp;quot;border: 1px solid #82b366&amp;quot;&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/tbody&amp;gt;&amp;lt;/table&amp;gt;\" style=\"text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;shadow=1;labelBackgroundColor=#ffffff;fontColor=#000000;align=left;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"390\" height=\"110\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 390,
+    "h": 110,
+    "aspect": "fixed",
+    "title": "Security Control Table"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font style=&amp;quot;font-size: 11px&amp;quot;&amp;gt;Note&amp;lt;/font&amp;gt;\" style=\"shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"110\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 110,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Note"
+  }
+]</mxlibrary>
